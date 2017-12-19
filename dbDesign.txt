@@ -1,0 +1,9 @@
+/user/:id
+    /name
+/room/:id
+    /metadata
+        /name
+    /message/:id   
+        /content
+        /userId
+        /timestamp
