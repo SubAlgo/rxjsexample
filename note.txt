@@ -1,3 +1,4 @@
 1. npm install firebase
 2. npm install rxjs
-2. npm install lodash
+3. npm install lodash
+4. npm install axios
